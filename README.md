@@ -20,13 +20,22 @@ Because I'm a noob, I don't know how to protect the app data. The app is using S
 Android version >= 4
 
 ## Download
+
 [https://github.com/zhangtianxiang/ztxfdty/raw/master/app/release/app-release.apk](https://github.com/zhangtianxiang/ztxfdty/raw/master/app/release/app-release.apk)
 
 ## Caution
+
 Please do not use this app if you can't guarantee your phone's security.
 Please do not enter your account password on someone else's mobile phone.
 Please assess the risk yourself.
 The author does not collect any user information, and the author is not responsible for the loss caused by the app.
+
+## Known Issue
+
+Abnormal exit:
+
+- When http://www.fdty.fudan.edu.cn cannot be accessed.
+- When your exercise record is empty.
 
 ## LICEN
 MIT
